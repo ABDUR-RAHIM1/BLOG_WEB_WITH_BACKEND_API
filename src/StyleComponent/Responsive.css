@@ -1,0 +1,34 @@
+@media screen and (max-width:768px) {
+    /*  home page */
+    .homeArticle{
+        width: 85%;
+        margin: 50px auto; 
+    }
+ /*  blog page */
+ .blog{
+    width: 100%;
+    margin: 15px;
+}
+
+/*  loign / resgisterpage */
+.userContainer{
+    width: 90%; 
+}
+
+/*  add blog page */
+.addBlogForm{
+    width: 90%; 
+}
+ 
+/*  read more page */
+.readMore{
+    width: 90%;  
+
+}
+.goBackBtn{ 
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+}

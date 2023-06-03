@@ -1,0 +1,16 @@
+.userContainer{
+    width: 50%;
+    margin: 30px auto;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+.checBoxContainer input{
+    padding: 10px;
+}
+.lable{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}

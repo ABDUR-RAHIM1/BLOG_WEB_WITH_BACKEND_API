@@ -1,0 +1,20 @@
+.myNavbar{
+    padding: 20px 20px;
+    background-color: rgba(16, 13, 51, 0.801);  
+}
+.myNavbar li a{
+    font-weight: bold;
+}
+.logInContainer{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.logInContainer a{
+    text-decoration: none;
+    color: crimson;
+    font-weight: bold;
+}
+.logInContainer small{
+    margin-left: 10px;
+    text-decoration: underline;
+}

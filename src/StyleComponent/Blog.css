@@ -1,0 +1,34 @@
+.blog{
+    width: 30%;
+    margin: 15px;
+}
+.cardHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.Icons{
+    font-size: 20px;
+    cursor: pointer;
+    color: red;
+    margin: 15px;
+}
+.blog h5{
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    color: chocolate;
+}
+.blog h6{
+    text-transform: capitalize; 
+    font-size: 13px;
+}
+.card-title{
+    text-transform: capitalize;
+}
+.card-subtitle{
+    color: red;
+    margin: 10px 0px;
+    cursor: pointer;
+    text-decoration: underline;
+}
